@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TO DO</string>
+    <string name="tarefas">Tarefas</string>
+    <string name="titulo">Titulo</string>
+    <string name="data">Data</string>
+    <string name="hora">Hora</string>
+    <string name="criar_tarefa">Nova Tarefa</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="descr_adicionar_nova_tarefa">Adicionar Nova Tarefa</string>
+    <string name="demo_teste_de_tarefa">Teste de Tarefa</string>
+    <string name="demo_data_09_09_21_18_00">09/09/21 18:00</string>
+    <string name="label_edit_item">Editar</string>
+    <string name="label_resume_item">Concluir</string>
+    <string name="empty_state_message">Muito Bem! Você não \n tem nenhuma tarefa pendente!</string>
+</resources>
